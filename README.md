@@ -46,6 +46,7 @@ All charts include axis explanations for better user understanding.
 
 ## 📂 Project Structure
 
+```bash
 frontend/
 │
 ├── app/
