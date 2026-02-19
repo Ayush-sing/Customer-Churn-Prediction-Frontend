@@ -5,6 +5,15 @@ It visualizes churn predictions, revenue risk, and model insights powered by a F
 
 ---
 
+## DEMO Link
+``` bash
+
+https://farmer-scheme-assistant-frontend.vercel.app/](https://customer-churn-prediction-frontend-three.vercel.app/dashboard
+
+```
+
+---
+
 ## 🚀 Tech Stack
 
 - Next.js (App Router)
